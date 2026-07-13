@@ -26,7 +26,7 @@ Click the links below to access the dashboards.
 
 ### **Dashboard 1: Main Overview Dashboard**
 **File:** `02_PowerBI_Files/Main_Dashboard.pbix`  
-**Dashboard Link:** [Open in Power BI Service](PASTE_YOUR_POWERBI_LINK_1)  
+**Dashboard Link:** [Open in Power BI Service](Image)  
 **Download PBIX:** [Download File](PASTE_YOUR_DRIVE_LINK_1)  
 **Key Metrics:** `total_sales 59M` | `Total_Quantity 1K` | `Transactions 291` | `Average_Price 41K`  
 **Key Visuals:**
