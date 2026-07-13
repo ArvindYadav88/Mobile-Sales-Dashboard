@@ -2,7 +2,7 @@
 
 ## 1. PROJECT OVERVIEW
 
-**Project Name:** Mobile Sales Data.xlsx  
+**Project Name:** Mobile Sales Dashboard  
 **Purpose:** This Power BI project analyzes mobile phone sales across different models, brands, payment methods, and locations.  
 It helps track total sales, quantity, transactions, and compare performance with previous periods.
 
@@ -27,7 +27,7 @@ Click the links below to access the dashboards.
 ### **Dashboard 1: Main Overview Dashboard**
 **File:** `02_PowerBI_Files/Main_Dashboard.pbix`  
 **Dashboard Link:** [Open in Power BI Service](Image/dashboard.png)  
-**Download PBIX:** [Download File](PASTE_YOUR_DRIVE_LINK_1)  
+**Download PBIX:** [Download File](powerBI_Files)  
 **Key Metrics:** `total_sales 59M` | `Total_Quantity 1K` | `Transactions 291` | `Average_Price 41K`  
 **Key Visuals:**
 - India Sales Map by City
@@ -42,7 +42,7 @@ Click the links below to access the dashboards.
 ### **Dashboard 2: MTD Reports Dashboard** 
 **File:** `02_PowerBI_Files/MTD_Dashboard.pbix`  
 **Dashboard Link:** [Open in Power BI Service](Image/MTD_dashboard.png)  
-**Download PBIX:** [Download File](PASTE_YOUR_DRIVE_LINK_2)  
+**Download PBIX:** [Download File](powerBI_Files)  
 **Key Metrics:** `total_sales 23M` | `Total_Quantity 604` | `Transactions 116` | `Average_Price 38K`  
 **Key Visuals:**
 - MTD and total_sales by Day - Line Chart  
@@ -52,7 +52,7 @@ Click the links below to access the dashboards.
 ### **Dashboard 3: Same Period Last Year Comparison**
 **File:** `02_PowerBI_Files/SPL_Dashboard.pbix`  
 **Dashboard Link:** [Open in Power BI Service](Image/same_period_last_year.png)  
-**Download PBIX:** [Download File](PASTE_YOUR_DRIVE_LINK_3)  
+**Download PBIX:** [Download File](powerBI_Files)  
 **Key Metrics:** `total_sales 769M` | `Total_Quantity 19K` | `Transactions 4K` | `Average_Price 40K`  
 **Key Visuals:**
 - total_sales vs same period last year by Year - Bar Chart
@@ -82,3 +82,35 @@ Click the links below to access the dashboards.
 ---
 
 ## 6. FOLDER STRUCTURE
+Mobile-Sales-Dashboard/
+│
+├── .gitignore
+├── README.md
+├── requirements.txt
+│
+├── 01_Data/
+│   └── Mobile sales data.xlsx
+│
+├── 02_PowerBI_Files/
+│   ├── Main_Dashboard.pbix
+│   ├── MTD_Dashboard.pbix
+│   └── SPL_Dashboard.pbix
+│
+├── 03_Documentation/
+│
+└── 04_Images/
+
+---
+
+## 7. NOTES
+
+- All 3 dashboards are connected to same dataset `Mobile sales data.xlsx`
+- KPI Cards show: `total_sales`, `Total_Quantity`, `transaction`, `Average_Price`
+- Top 3 Brands by Sales: Samsung, Apple, OnePlus
+
+---
+
+## 8. CONTACT
+
+**Name:** Arvind Yadav  
+**Email:** [hhrithikyadavaa18@gmail.com]
