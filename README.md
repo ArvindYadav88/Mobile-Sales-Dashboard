@@ -8,8 +8,7 @@ Purpose: This Power BI project analyzes mobile phone sales across different mode
 It helps track total sales, quantity, transactions, and compare performance with previous periods.
 
 Created By: [Arvind Yadav]
-Created On: 013 july 2026
-Last Updated: 04 july 2026
+Created On: 13 july 2026
 
 2. DATA SOURCE
 
@@ -68,7 +67,7 @@ Step 3: If data source path changes, go to Transform Data > Data Source Settings
 
 6. FOLDER STRUCTURE
 
-Mobile_Sales_Dashboard/
+Mobile_Sales_Das/
 │
 ├── 01_Data/
 │   └── Mobile sales data.xlsx
