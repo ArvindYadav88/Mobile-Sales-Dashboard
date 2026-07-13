@@ -1,7 +1,7 @@
-MOBILE SALES DASHBOARDS PROJECT
+##MOBILE SALES DASHBOARDS PROJECT
 
 
-1. PROJECT OVERVIEW
+1. #PROJECT OVERVIEW
 
 Project Name: Mobile Sales Data.xlsx
 Purpose: This Power BI project analyzes mobile phone sales across different models, brands, payment methods, and locations. 
@@ -10,13 +10,13 @@ It helps track total sales, quantity, transactions, and compare performance with
 Created By: [Arvind Yadav]
 Created On: 13 july 2026
 
-2. DATA SOURCE
+2. #DATA SOURCE
 
 File Name: Mobile sales data.xlsx
 Location: /01_Data/Mobile sales data.xlsx
 Contains: Sales transactions with details like Mobile Model, Brand, Payment Method, Date, Quantity, Price, Customer Ratings
 
-3. DASHBOARDS INCLUDED
+3. #DASHBOARDS INCLUDED
 
 The project has 3 main dashboard pages. Click on the buttons on left side to navigate.
 
@@ -34,7 +34,7 @@ Key Visuals:
 - Brand wise Sales Table: Samsung, Apple, OnePlus
 Filters: Mobile Model, Payment Method, Brand, Month
 
-**Dashboard 2: MTD Reports Dashboard** 
+**Dashboard 2: #MTD Reports Dashboard** 
 File Link: [Link to MTD_Dashboard.pbix]
 Key Metrics: total_sales 23M | Total_Quantity 604 | Transactions 116 | Average_Price 38K
 Key Visuals:
@@ -42,7 +42,7 @@ Key Visuals:
 Purpose: Tracks Month-To-Date sales vs daily sales for selected month
 Filters: Mobile Model, Payment Method, Year/Month/Day, Month Selector
 
-**Dashboard 3: Same Period Last Year Comparison**
+**Dashboard 3: #Same Period Last Year Comparison**
 File Link: [Link to SPL_Dashboard.pbix]
 Key Metrics: total_sales 769M | Total_Quantity 19K | Transactions 4K | Average_Price 40K
 Key Visuals:
@@ -53,20 +53,20 @@ Key Visuals:
 Purpose: Year-over-Year and Quarter-over-Quarter comparison
 Filters: Mobile Model, Payment Method, Year/Quarter/Month/Day
 
-4. HOW TO USE
+4. #HOW TO USE
 
 Step 1: Open Mobile_Sales_Dashboard.pbix in Power BI Desktop
 Step 2: Use top slicers to filter by Mobile Model, Payment Method, Brand
 Step 3: Use left menu to switch between Dashboard, MTD Reports, Same Period Last Years
 Step 4: Use month buttons on left to filter by Jan, Feb, March etc.
 
-5. HOW TO REFRESH DATA
+5. #HOW TO REFRESH DATA
 
 Step 1: Update Mobile sales data.xlsx in /01_Data/ folder
 Step 2: Open PBIX file > Click Refresh
 Step 3: If data source path changes, go to Transform Data > Data Source Settings
 
-6. FOLDER STRUCTURE
+6. #FOLDER STRUCTURE
 
 Mobile_Sales_Das/
 │
@@ -84,14 +84,14 @@ Mobile_Sales_Das/
 └── 04_Images/
     └── dashboard_screenshots.png
 
-7. NOTES
+7. #NOTES
 
 - All 3 dashboards are connected to same dataset "Mobile sales data.xlsx"
 - KPI Cards show: total_sales, Total_Quantity, transaction, Average_Price
 - Top 3 Brands by Sales: Samsung, Apple, OnePlus
 
-8. CONTACT
+8. $CONTACT
 
 For any issues or data update requests contact:
 Name: [Your Name]
-Email: [your.email@company.com]
+Email: [hhrithikyadavaa18@gmail.com]
