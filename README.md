@@ -26,7 +26,7 @@ Click the links below to access the dashboards.
 
 ### **Dashboard 1: Main Overview Dashboard**
 **File:** `02_PowerBI_Files/Main_Dashboard.pbix`  
-**Dashboard Link:** [Open in Power BI Service](Image)  
+**Dashboard Link:** [Open in Power BI Service](Image/dashboard.png)  
 **Download PBIX:** [Download File](PASTE_YOUR_DRIVE_LINK_1)  
 **Key Metrics:** `total_sales 59M` | `Total_Quantity 1K` | `Transactions 291` | `Average_Price 41K`  
 **Key Visuals:**
@@ -41,7 +41,7 @@ Click the links below to access the dashboards.
 
 ### **Dashboard 2: MTD Reports Dashboard** 
 **File:** `02_PowerBI_Files/MTD_Dashboard.pbix`  
-**Dashboard Link:** [Open in Power BI Service](Image/dashboard.png)  
+**Dashboard Link:** [Open in Power BI Service](Image/MTD_dashboard.png)  
 **Download PBIX:** [Download File](PASTE_YOUR_DRIVE_LINK_2)  
 **Key Metrics:** `total_sales 23M` | `Total_Quantity 604` | `Transactions 116` | `Average_Price 38K`  
 **Key Visuals:**
@@ -51,7 +51,7 @@ Click the links below to access the dashboards.
 
 ### **Dashboard 3: Same Period Last Year Comparison**
 **File:** `02_PowerBI_Files/SPL_Dashboard.pbix`  
-**Dashboard Link:** [Open in Power BI Service](PASTE_YOUR_POWERBI_LINK_3)  
+**Dashboard Link:** [Open in Power BI Service](Image/same_period_last_year.png)  
 **Download PBIX:** [Download File](PASTE_YOUR_DRIVE_LINK_3)  
 **Key Metrics:** `total_sales 769M` | `Total_Quantity 19K` | `Transactions 4K` | `Average_Price 40K`  
 **Key Visuals:**
