@@ -41,7 +41,7 @@ Click the links below to access the dashboards.
 
 ### **Dashboard 2: MTD Reports Dashboard** 
 **File:** `02_PowerBI_Files/MTD_Dashboard.pbix`  
-**Dashboard Link:** [Open in Power BI Service](PASTE_YOUR_POWERBI_LINK_2)  
+**Dashboard Link:** [Open in Power BI Service](Image/dashboard.png)  
 **Download PBIX:** [Download File](PASTE_YOUR_DRIVE_LINK_2)  
 **Key Metrics:** `total_sales 23M` | `Total_Quantity 604` | `Transactions 116` | `Average_Price 38K`  
 **Key Visuals:**
