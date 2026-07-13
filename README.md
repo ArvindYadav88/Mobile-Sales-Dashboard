@@ -8,7 +8,6 @@ It helps track total sales, quantity, transactions, and compare performance with
 
 **Created By:** Arvind Yadav  
 **Created On:** 13 July 2026  
-**Last Updated:** 04 July 2026
 
 ---
 
