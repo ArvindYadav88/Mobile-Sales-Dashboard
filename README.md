@@ -21,7 +21,7 @@ Contains: Sales transactions with details like Mobile Model, Brand, Payment Meth
 The project has 3 main dashboard pages. Click on the buttons on left side to navigate.
 
 **Dashboard 1: Main Overview Dashboard**
-File Link: [Link to Main_Dashboard.pbix]
+File Link: [Image/dashboard.png]
 Key Metrics: total_sales 59M | Total_Quantity 1K | Transactions 291 | Average_Price 41K
 Key Visuals:
 - India Sales Map by City
