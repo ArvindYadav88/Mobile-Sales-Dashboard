@@ -21,7 +21,7 @@ Contains: Sales transactions with details like Mobile Model, Brand, Payment Meth
 The project has 3 main dashboard pages. Click on the buttons on left side to navigate.
 
 **Dashboard 1: Main Overview Dashboard**
-File Link: [Upload: Mobile Sales Dashboard with 3 PBIX + README.docx
+File Link: ["C:\Users\yadav\OneDrive\Desktop\python\mobile_sales_dashboard\Image\dashboard.png"
 ]
 Key Metrics: total_sales 59M | Total_Quantity 1K | Transactions 291 | Average_Price 41K
 Key Visuals:
